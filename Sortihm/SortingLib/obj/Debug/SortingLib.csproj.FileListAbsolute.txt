@@ -1,0 +1,30 @@
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\SortingLib\bin\Debug\SortingLib.dll
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\SortingLib\bin\Debug\SortingLib.pdb
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\SortingLib\obj\Debug\SortingLib.csproj.AssemblyReference.cache
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\SortingLib\obj\Debug\SortingLib.csproj.CoreCompileInputs.cache
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\SortingLib\obj\Debug\SortingLib.dll
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\SortingLib\obj\Debug\SortingLib.pdb
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\SortingLib\bin\Debug\SortingLib.dll
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\SortingLib\bin\Debug\SortingLib.pdb
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\SortingLib\obj\Debug\SortingLib.csproj.AssemblyReference.cache
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\SortingLib\obj\Debug\SortingLib.csproj.CoreCompileInputs.cache
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\SortingLib\obj\Debug\SortingLib.dll
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\SortingLib\obj\Debug\SortingLib.pdb
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\SortingLib\bin\Debug\SortingLib.dll
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\SortingLib\bin\Debug\SortingLib.pdb
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\SortingLib\obj\Debug\SortingLib.csproj.AssemblyReference.cache
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\SortingLib\obj\Debug\SortingLib.csproj.CoreCompileInputs.cache
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\SortingLib\obj\Debug\SortingLib.dll
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\SortingLib\obj\Debug\SortingLib.pdb
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\SortingLib\bin\Debug\SortingLib.dll
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\SortingLib\bin\Debug\SortingLib.pdb
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\SortingLib\obj\Debug\SortingLib.csproj.AssemblyReference.cache
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\SortingLib\obj\Debug\SortingLib.csproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\SortingLib\obj\Debug\SortingLib.dll
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\SortingLib\obj\Debug\SortingLib.pdb
+c:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\SortingLib\bin\Debug\SortingLib.dll
+c:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\SortingLib\bin\Debug\SortingLib.pdb
+c:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\SortingLib\obj\Debug\SortingLib.csproj.AssemblyReference.cache
+c:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\SortingLib\obj\Debug\SortingLib.csproj.CoreCompileInputs.cache
+c:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\SortingLib\obj\Debug\SortingLib.dll
+c:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\SortingLib\obj\Debug\SortingLib.pdb

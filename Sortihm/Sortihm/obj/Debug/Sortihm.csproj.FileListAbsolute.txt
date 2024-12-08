@@ -1,0 +1,12 @@
+c:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\Sortihm\bin\Debug\Sortihm.exe.config
+c:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\Sortihm\bin\Debug\Sortihm.exe
+c:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\Sortihm\bin\Debug\Sortihm.pdb
+c:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\Sortihm\bin\Debug\SortingLib.dll
+c:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\Sortihm\obj\Debug\Sortihm.csproj.AssemblyReference.cache
+c:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\Sortihm\obj\Debug\Sortihm.FormMain.resources
+c:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\Sortihm\obj\Debug\Sortihm.Properties.Resources.resources
+c:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\Sortihm\obj\Debug\Sortihm.csproj.GenerateResource.cache
+c:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\Sortihm\obj\Debug\Sortihm.csproj.CoreCompileInputs.cache
+c:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\Sortihm\obj\Debug\Sortihm.csproj.Up2Date
+c:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\Sortihm\obj\Debug\Sortihm.exe
+c:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\Sortihm\obj\Debug\Sortihm.pdb

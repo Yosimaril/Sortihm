@@ -1,0 +1,69 @@
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\UAS_DS\bin\Debug\UAS_DS.exe.config
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\UAS_DS\bin\Debug\UAS_DS.exe
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\UAS_DS\bin\Debug\UAS_DS.pdb
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\UAS_DS\obj\Debug\UAS_DS.csproj.AssemblyReference.cache
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\UAS_DS\obj\Debug\UAS_DS.Properties.Resources.resources
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\UAS_DS\obj\Debug\UAS_DS.csproj.GenerateResource.cache
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\UAS_DS\obj\Debug\UAS_DS.csproj.CoreCompileInputs.cache
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\UAS_DS\obj\Debug\UAS_DS.exe
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\UAS_DS\obj\Debug\UAS_DS.pdb
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\UAS_DS\obj\Debug\UAS_DS.FormMain.resources
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\UAS_DS\obj\Debug\UAS_DS.FormSort.resources
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\UAS_DS\bin\Debug\SortingLib.dll
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\UAS_DS\bin\Debug\SortingLib.pdb
+C:\Users\BrokenChord\Documents\Coding\UAS_DS\UAS_DS\obj\Debug\UAS_DS.csproj.Up2Date
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.csproj.AssemblyReference.cache
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.FormMain.resources
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.FormSort.resources
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.Properties.Resources.resources
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.csproj.GenerateResource.cache
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.csproj.CoreCompileInputs.cache
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.exe
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.pdb
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\UAS_DS\bin\Debug\UAS_DS.exe.config
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\UAS_DS\bin\Debug\UAS_DS.exe
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\UAS_DS\bin\Debug\UAS_DS.pdb
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\UAS_DS\bin\Debug\SortingLib.dll
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\UAS_DS\bin\Debug\SortingLib.pdb
+D:\HOME!\UBAYA\sem 3\dastruc\PROJECT UAS\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.csproj.Up2Date
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\UAS_DS\bin\Debug\UAS_DS.exe.config
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\UAS_DS\bin\Debug\UAS_DS.exe
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\UAS_DS\bin\Debug\UAS_DS.pdb
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\UAS_DS\bin\Debug\SortingLib.dll
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\UAS_DS\bin\Debug\SortingLib.pdb
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.csproj.AssemblyReference.cache
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.FormMain.resources
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.FormSort.resources
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.Properties.Resources.resources
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.csproj.GenerateResource.cache
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.csproj.CoreCompileInputs.cache
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.csproj.Up2Date
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.exe
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.pdb
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.csproj.AssemblyReference.cache
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.FormMain.resources
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.FormSort.resources
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.Properties.Resources.resources
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.csproj.GenerateResource.cache
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.csproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.exe
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.pdb
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\UAS_DS\bin\Debug\UAS_DS.exe.config
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\UAS_DS\bin\Debug\UAS_DS.exe
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\UAS_DS\bin\Debug\UAS_DS.pdb
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\UAS_DS\bin\Debug\SortingLib.dll
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\UAS_DS\bin\Debug\SortingLib.pdb
+E:\Kuliah\Semester 3\Data Structure\Tugas\project\DS_UAS\UAS_DS\UAS_DS\obj\Debug\UAS_DS.csproj.Up2Date
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\UAS_DS\bin\Debug\UAS_DS.exe.config
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\UAS_DS\bin\Debug\UAS_DS.exe
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\UAS_DS\bin\Debug\UAS_DS.pdb
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\UAS_DS\bin\Debug\SortingLib.dll
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\UAS_DS\bin\Debug\SortingLib.pdb
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\UAS_DS\obj\Debug\UAS_DS.csproj.AssemblyReference.cache
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\UAS_DS\obj\Debug\UAS_DS.FormMain.resources
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\UAS_DS\obj\Debug\UAS_DS.Properties.Resources.resources
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\UAS_DS\obj\Debug\UAS_DS.csproj.GenerateResource.cache
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\UAS_DS\obj\Debug\UAS_DS.csproj.CoreCompileInputs.cache
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\UAS_DS\obj\Debug\UAS_DS.csproj.Up2Date
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\UAS_DS\obj\Debug\UAS_DS.exe
+C:\Users\BrokenChord\Documents\GitHub\DS_UAS\Sortihm\UAS_DS\obj\Debug\UAS_DS.pdb
